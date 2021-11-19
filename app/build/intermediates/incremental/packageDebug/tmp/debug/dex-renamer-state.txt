@@ -1,0 +1,4 @@
+#Sat Apr 13 22:32:34 BDT 2019
+base.0=C\:\\Users\\Arman\\AndroidStudioProjects\\EventManagerApp\\EventManagerApp\\EventManagerApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

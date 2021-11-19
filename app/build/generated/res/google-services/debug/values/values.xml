@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://eventmanagerapp-787e4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">164117025394</string>
+    <string name="google_api_key" translatable="false">AIzaSyCOiH64LARlv-588-vm3Ad1IRg0GJ5m3Zo</string>
+    <string name="google_app_id" translatable="false">1:164117025394:android:ac6b13099f58a2db</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCOiH64LARlv-588-vm3Ad1IRg0GJ5m3Zo</string>
+    <string name="google_storage_bucket" translatable="false">eventmanagerapp-787e4.appspot.com</string>
+    <string name="project_id" translatable="false">eventmanagerapp-787e4</string>
+</resources>

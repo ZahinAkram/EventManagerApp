@@ -1,0 +1,4 @@
+#Fri Apr 12 13:09:39 BDT 2019
+base.0=C\:\\Users\\Zahin\\Desktop\\Project Ayons Version\\EventManagerApp\\EventManagerApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
